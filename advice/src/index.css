@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&family=Geologica:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+*{
+  box-sizing: border-box;
+  
+}
+body{
+  background: linear-gradient(90deg,#2E7775,#1E6C8E );
+  display: grid;
+  place-items: center;
+  position: relative;
+}

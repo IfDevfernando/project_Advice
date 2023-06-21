@@ -1,0 +1,37 @@
+.container{
+  background-color: #222222af;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 16rem;
+  height: 15rem;
+  margin-top: 30vh;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition-timing-function: ease;
+  transition: width .5s,heigth .5s;
+}
+.title{
+  color: #05b4ff;
+  padding-bottom: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  font-size: smaller;
+  
+  
+}
+.advice{
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  width: 15rem;
+  word-wrap: break-word;
+  text-align: center;
+  justify-content: center;
+  
+  
+
+
+}
